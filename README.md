@@ -1,6 +1,6 @@
 # Hi! I'm Willian, a.k.a. Visconde
 
-**Software Developer | Game Developer | Godot / GDScript**
+**Game Programmer | Godot & GDScript | OOP**
 
 I've been building and shipping software and games for seven years.
 Currently formalizing my background through a degree in **Systems Analysis and Development** and **CS50x**, while building my professional portfolio.
@@ -29,9 +29,9 @@ Matchmaking platform connecting Minecraft players with small servers. Built and 
 
 ### 🌾 Farmyard Files — Game · Godot / GDScript
 
-`Rating Phase` `7-day development`
+`Ranked #46 out of 2.000 + entries` `7-day development`
 
-**🏁 Brackeys Game Jam 2026/2 | Rating Phase**
+**🏁 Brackeys Game Jam 2026/2 | Ranked #46 out of 2.000+**
 
 An investigation game where animals are the suspects and the crimes are ridiculous. Made in 7 days for the Brackeys Game Jam.
 
@@ -39,8 +39,6 @@ An investigation game where animals are the suspects and the crimes are ridiculo
 
 ## Stack
 
-`GDScript` `Godot` `TypeScript` `Python` `C` `Git` `REST` `Firebase` `Svelte` `React` `Linux`
+`GDScript` `Godot` `C#` `OOP` `Data-Driven Architecture`
 
-Currently studying **Software Architecture, Testing, Algorithms & Backend Development**.
-
-[LinkedIn](#) · [Itch.io](https://visconde.itch.io/)
+[LinkedIn](https://www.linkedin.com/in/visconde/) · [Itch.io](https://visconde.itch.io/)
